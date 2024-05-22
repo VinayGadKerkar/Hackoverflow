@@ -14,7 +14,8 @@ function App() {
 
   return (
     <div>
-       <BrowserRouter>
+
+<BrowserRouter>
             <Routes>
                 <Route element={<Dashboard></Dashboard>} path='/'></Route>
                 <Route element={<Web3></Web3>} path='/Web3'></Route>
