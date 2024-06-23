@@ -54,7 +54,7 @@ export default function () {
                         </svg>
 </div>
                         <div className="flex flex-col justify-center">
-                            20 JUNE 2024
+                            22 JULY 2024
                         </div>
                     </div>
                     <div className="bg-neutral-400 rounded-lg flex px-1 ml-2">
@@ -87,7 +87,7 @@ export default function () {
                         </svg>
 </div>
                         <div className="flex flex-col justify-center">
-                            22 JUNE 2024
+                            27 JULY 2024
                         </div>
                     </div>
                     <div className="bg-neutral-400 rounded-lg flex px-1 ml-2">
@@ -120,7 +120,7 @@ export default function () {
                         </svg>
 </div>
                         <div className="flex flex-col justify-center">
-                           23 JUNE 2024
+                           28 JULY 2024
                         </div>
                     </div>
                     <div className="bg-neutral-400 rounded-lg flex px-1 ml-2">
