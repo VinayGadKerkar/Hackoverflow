@@ -6,7 +6,7 @@ const Timer = () => {
   const [minutes, setMinutes] = useState(0);
   const [seconds, setSeconds] = useState(0);
 
-  const deadline = "October, 21, 2024";
+  const deadline = "May , 21, 2025";
 
   const getTime = (deadline:string) => {
     const time = Date.parse(deadline) - Date.now();
@@ -22,10 +22,6 @@ const Timer = () => {
 
     return () => clearInterval(interval);
   }, []);
-  setDays(0);
-  setHours(0);
-  setMinutes(0);
-  setSeconds(0);
   return (
     <div className="text-neutral-300 dark:text-neutral-200 text-sm md:text-2xl font-bold mb-10 ">
         {days} days {hours} hr {minutes} min {seconds} s  
