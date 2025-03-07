@@ -22,10 +22,13 @@ const Timer = () => {
 
     return () => clearInterval(interval);
   }, []);
-
+  setDays(0);
+  setHours(0);
+  setMinutes(0);
+  setSeconds(0);
   return (
     <div className="text-neutral-300 dark:text-neutral-200 text-sm md:text-2xl font-bold mb-10 ">
-        -- days -- hr -- min -- s  
+        {days} days {hours} hr {minutes} min {seconds} s  
     </div>
   );
 };
