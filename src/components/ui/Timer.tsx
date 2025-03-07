@@ -25,7 +25,7 @@ const Timer = () => {
 
   return (
     <div className="text-neutral-300 dark:text-neutral-200 text-sm md:text-2xl font-bold mb-10 ">
-        {days} days {hours} hr {minutes} min {seconds} s  
+        -- days -- hr -- min -- s  
     </div>
   );
 };

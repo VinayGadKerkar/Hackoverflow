@@ -21,7 +21,7 @@ export default function () {
                         </svg>
 </div>
                         <div className="flex flex-col justify-center">
-                            21 APRIL 2024
+                            -- ----- ----
                         </div>
                     </div>
                     <div className="bg-neutral-400 rounded-lg flex px-1 ml-2">
@@ -33,7 +33,7 @@ export default function () {
                         </div>
 
                         <div className="flex flex-col justify-center">
-                            12:15 PM IST
+                            --:-- PM IST
                         </div>
                     </div>
 
@@ -54,7 +54,7 @@ export default function () {
                         </svg>
 </div>
                         <div className="flex flex-col justify-center">
-                            20 OCTOBER 2024
+                            -- -------- ----
                         </div>
                     </div>
                     <div className="bg-neutral-400 rounded-lg flex px-1 ml-2">
@@ -66,7 +66,7 @@ export default function () {
                         </div>
 
                         <div className="flex flex-col justify-center">
-                            11:59 PM IST
+                            --:-- PM IST
                         </div>
                     </div>
 
@@ -87,7 +87,7 @@ export default function () {
                         </svg>
 </div>
                         <div className="flex flex-col justify-center">
-                            26 OCTOBER 2024
+                            -- ------- ----
                         </div>
                     </div>
                     <div className="bg-neutral-400 rounded-lg flex px-1 ml-2">
@@ -99,7 +99,7 @@ export default function () {
                         </div>
 
                         <div className="flex flex-col justify-center">
-                            09:00 AM IST
+                            --:-- AM IST
                         </div>
                     </div>
 
@@ -120,7 +120,7 @@ export default function () {
                         </svg>
 </div>
                         <div className="flex flex-col justify-center">
-                           27 OCTOBER 2024
+                           -- ------- ----
                         </div>
                     </div>
                     <div className="bg-neutral-400 rounded-lg flex px-1 ml-2">
@@ -132,7 +132,7 @@ export default function () {
                         </div>
 
                         <div className="flex flex-col justify-center">
-                            09:15 AM IST
+                            --:-- AM IST
                         </div>
                     </div>
 
